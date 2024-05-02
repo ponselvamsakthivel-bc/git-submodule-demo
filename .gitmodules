@@ -1,3 +1,6 @@
 [submodule "Local-UI"]
 	path = Local-UI
 	url = https://github.com/ponselvamsakthivel-bc/Local-UI.git
+[submodule "Local-API"]
+	path = Local-API
+	url = https://github.com/ponselvamsakthivel-bc/Local-API.git
